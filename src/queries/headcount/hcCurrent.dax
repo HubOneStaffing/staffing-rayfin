@@ -1,0 +1,4 @@
+-- Backend chèn filter context đã được kiểm tra từ danh mục cho phép.
+-- Không thay token từ URL trực tiếp vào câu DAX.
+EVALUATE
+ROW("NS Hien Tai", [NS Hiện tại])
